@@ -1,0 +1,17 @@
+
+function replotRC(RC)
+%UNTITLED4 Summary of this function goes here
+%   Detailed explanation goes here
+
+h = imagesc(RC);
+set(h,'alphadata',isnan(RC));
+grid off
+hold on
+
+
+
+end
+
+
+
+
