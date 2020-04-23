@@ -9,4 +9,5 @@ Rubik's Cube motion:
 Finished Rubik's Cube:
 ![Finished Rubik's Cube](https://github.com/EthanCDD/Rubik-s-Cube/blob/master/RB_Finish.PNG)
 
-The video demo is presented in the file of 'RubiksCube.zip'
+\textbf{The video demo is presented in the file of 'RubiksCube.zip'}
+
